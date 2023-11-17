@@ -1,7 +1,6 @@
 | Организатор  | Кейсодержатель |
 | ------------- | ------------- |
-| ![logo](https://github.com/WALKWAY36/proscom-hr/assets/86045935/4d8ee1fe-a59b-4508-8238-73ba90b38619)
-  | <img width="600" height="300" alt="image" src="https://github.com/TommyCalmman/proscom-hr/blob/backend/static-files/proscom-logo.webp">  |
+| ![logo](https://github.com/WALKWAY36/proscom-hr/assets/86045935/4d8ee1fe-a59b-4508-8238-73ba90b38619)| <img width="600" height="300" alt="image" src="https://github.com/TommyCalmman/proscom-hr/blob/backend/static-files/proscom-logo.webp">  |
 
 # Распознавание именованных сущностей в названиях и описаниях к видео
 
